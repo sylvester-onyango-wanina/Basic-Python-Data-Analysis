@@ -1,0 +1,5 @@
+Sales Summary
+---------------------------
+Total Revenue: $13,300.00
+Best-Selling Product: Mouse (35 units)
+Highest Revenue Day: 2025-03-01 ($5,300.00)
